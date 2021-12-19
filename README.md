@@ -1,5 +1,5 @@
 # Proyecto_Final
-citas a un dentista
+Citas a un Dentista
 
 
 Group members: 
